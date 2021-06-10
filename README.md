@@ -15,9 +15,9 @@ Than we will register/create a datastore and upload the delta files and than cre
 
 ## 2) Use AML Notebook to import the notebook: Delta_DBX_Read_Demo.ipynb
 
-This notebook will download the delta table from the registered datastore + dataset and convert the delta table to pandas frames:
+This notebook will show how to install the detla table and than use AML Datastore and Dataset to download the delta table 
+and convert the delta table to pandas frames:
 
-![image](https://user-images.githubusercontent.com/5873303/121588813-5c2c0200-ca04-11eb-8070-317c6bb075d2.png)
 
 
 ```
