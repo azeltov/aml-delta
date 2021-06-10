@@ -1,6 +1,4 @@
-# aml-delta
-
-This repo will show a basic Demo of how to use Delta file format from AML Compute.
+# This repo will show a basic Demo of how to use Delta file format from AML Compute.
 
 ![image](https://user-images.githubusercontent.com/5873303/121588011-66013580-ca03-11eb-8c87-c1bd0535cacf.png)
 
