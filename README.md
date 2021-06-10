@@ -1,4 +1,4 @@
-# This repo will show a basic Demo of how to use Delta file format from AML Compute Instance. 
+# This repo will show a basic Demo of how to use Delta file format from AML 
 
 With the new announcement from Databricks of relasing DeltaLake for standalone compute, we can now easily integrate the AML CI/Cluster with Delta file format generated/saved from Spark 
 
