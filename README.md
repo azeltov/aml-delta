@@ -4,6 +4,8 @@ With the new announcement from Databricks of relasing DeltaLake for standalone c
 
 https://delta.io/news/delta-lake-1-0-0-released/
 
+![image](https://user-images.githubusercontent.com/5873303/121592654-f55d1780-ca08-11eb-9b85-4dbe1da86433.png)
+
 ![image](https://user-images.githubusercontent.com/5873303/121588011-66013580-ca03-11eb-8c87-c1bd0535cacf.png)
 
 ## 1) Use Databricks to import the notebook: [Databricks_Delta_Load.ipynb](Databricks_Delta_Load.ipynb)
